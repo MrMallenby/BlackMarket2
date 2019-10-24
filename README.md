@@ -6,4 +6,12 @@ If they are not you can either add them yourself or remove them from the BlackMa
 
 If you modify this and improve it please submit a push request with the changes so everyone can benefit :)
 
+
+Requirements:
+ESX(duh)
+ESX Billing
+
+Here is the map its currently set up for https://www.gta5-mods.com/maps/car-dealer-secret-base-ymap
+
+
 https://invite.gg/cannygood
