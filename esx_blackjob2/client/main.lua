@@ -71,7 +71,7 @@ function OpenCloakroomMenu()
 	elseif grade == 'cfo' then
 		table.insert(elements, {label = _U('bm_wear'), value = 'cfo_wear'})
 	elseif grade == 'boss' then
-		table.insert(elements, {label = _U('bm_wear'), value = 'ceo_wear'})
+		table.insert(elements, {label = _U('bm_wear'), value = 'boss_wear'})
 	end
 
 	ESX.UI.Menu.CloseAll()
@@ -171,7 +171,7 @@ function OpenCloakroomMenu()
 			data.current.value == 'transporter_wear' or
 			data.current.value == 'rd_wear' or
 			data.current.value == 'cfo_wear' or
-			data.current.value == 'ceo_wear' 
+			data.current.value == 'boss_wear' 
 		--	data.current.value == 'bullet_wear' or
 		then
 			setUniform(data.current.value, playerPed)
