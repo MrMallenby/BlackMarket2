@@ -1,3 +1,5 @@
+THIS PROJECT IS NO LONGER SUPPORTED.
+
 # BlackMarket2
 A black market weapons script for ESX
 
